@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0001-two-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,8 +35,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0009-palindrome-number) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Prefix Sum
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Ordered Set
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
