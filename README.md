@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
 ## Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
+## Memoization
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
 <!---LeetCode Topics End-->
