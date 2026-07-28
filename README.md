@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0001-two-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0460-lfu-cache](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0460-lfu-cache) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0002-add-two-numbers) |
+| [0460-lfu-cache](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0460-lfu-cache) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
