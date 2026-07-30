@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0009-palindrome-number) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
