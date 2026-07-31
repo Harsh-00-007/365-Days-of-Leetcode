@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0001-two-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0460-lfu-cache](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0460-lfu-cache) |
+| [0567-permutation-in-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [0567-permutation-in-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0460-lfu-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
