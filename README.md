@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0001-two-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
+| [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
 ## Greedy
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
 ## Randomized
 |  |
 | ------- |
