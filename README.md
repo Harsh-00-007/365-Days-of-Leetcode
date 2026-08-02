@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
