@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0657-robot-return-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
