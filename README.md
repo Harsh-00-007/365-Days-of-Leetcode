@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
+| [0715-range-module](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0715-range-module) |
 ## Randomized
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0460-lfu-cache) |
+| [0715-range-module](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0715-range-module) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0845-longest-mountain-in-array) |
+## Segment Tree
+|  |
+| ------- |
+| [0715-range-module](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0715-range-module) |
 <!---LeetCode Topics End-->
