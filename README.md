@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0846-hand-of-straights) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0846-hand-of-straights](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0846-hand-of-straights) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0846-hand-of-straights](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0846-hand-of-straights) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0856-score-of-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
