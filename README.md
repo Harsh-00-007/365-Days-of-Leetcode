@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0567-permutation-in-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0856-score-of-parentheses](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
 | [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
