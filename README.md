@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0846-hand-of-straights) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0546-remove-boxes](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0546-remove-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
 | [0845-longest-mountain-in-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0546-remove-boxes](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0546-remove-boxes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0488-zuma-game](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0488-zuma-game) |
+| [0546-remove-boxes](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0546-remove-boxes) |
 ## Tree
 |  |
 | ------- |
