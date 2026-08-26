@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0546-remove-boxes](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0546-remove-boxes) |
+| [0748-shortest-completing-word](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0748-shortest-completing-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 | [0846-hand-of-straights](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0846-hand-of-straights) |
+| [0748-shortest-completing-word](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0748-shortest-completing-word) |
 ## String
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0856-score-of-parentheses](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0748-shortest-completing-word](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0748-shortest-completing-word) |
 ## Stack
 |  |
 | ------- |
