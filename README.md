@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0546-remove-boxes](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0546-remove-boxes) |
 | [0748-shortest-completing-word](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0748-shortest-completing-word) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0009-palindrome-number) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Recursion
 |  |
 | ------- |
