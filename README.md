@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0684-redundant-connection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0684-redundant-connection) |
+| [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Memoization
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0684-redundant-connection) |
+| [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Design
 |  |
 | ------- |
@@ -209,4 +212,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0684-redundant-connection) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
