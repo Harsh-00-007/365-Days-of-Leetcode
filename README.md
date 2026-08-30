@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0748-shortest-completing-word](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0748-shortest-completing-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0845-longest-mountain-in-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
