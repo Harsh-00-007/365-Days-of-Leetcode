@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0991-broken-calculator](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0991-broken-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0991-broken-calculator](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0991-broken-calculator) |
 ## Recursion
 |  |
 | ------- |
