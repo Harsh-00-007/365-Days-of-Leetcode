@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0546-remove-boxes) |
 | [0748-shortest-completing-word](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0748-shortest-completing-word) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0991-broken-calculator](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0991-broken-calculator) |
+| [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
+| [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0845-longest-mountain-in-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 ## Enumeration
 |  |
 | ------- |
