@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0748-shortest-completing-word) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
+| [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0846-hand-of-straights) |
 | [0748-shortest-completing-word](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0748-shortest-completing-word) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
 ## String
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
+| [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
+| [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
 ## Enumeration
 |  |
 | ------- |
