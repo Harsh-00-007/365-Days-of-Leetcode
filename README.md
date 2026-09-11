@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0991-broken-calculator](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0991-broken-calculator) |
+| [0858-mirror-reflection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0858-mirror-reflection) |
 ## Recursion
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0858-mirror-reflection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0858-mirror-reflection) |
 ## Extended Euclidean Algorithm
 |  |
 | ------- |
@@ -273,4 +275,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0641-design-circular-deque) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0858-mirror-reflection) |
+## Number Theory
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0858-mirror-reflection) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
