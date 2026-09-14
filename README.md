@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0654-maximum-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0641-design-circular-deque](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0641-design-circular-deque) |
+| [0475-heaters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0475-heaters) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
+| [0475-heaters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0475-heaters) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [0541-reverse-string-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0541-reverse-string-ii) |
+| [0475-heaters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0475-heaters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
+| [0475-heaters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0475-heaters) |
 ## Enumeration
 |  |
 | ------- |
