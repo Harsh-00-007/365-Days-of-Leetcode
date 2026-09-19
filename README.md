@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0748-shortest-completing-word) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
+| [0756-pyramid-transition-matrix](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0541-reverse-string-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0756-pyramid-transition-matrix](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0858-mirror-reflection) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
