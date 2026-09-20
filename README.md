@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0991-broken-calculator](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0991-broken-calculator) |
 | [0858-mirror-reflection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0858-mirror-reflection) |
+| [0007-reverse-integer](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
