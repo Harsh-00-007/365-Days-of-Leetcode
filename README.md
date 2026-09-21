@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0641-design-circular-deque](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0641-design-circular-deque) |
 | [0475-heaters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0475-heaters) |
+| [0661-image-smoother](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0661-image-smoother) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0661-image-smoother](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0661-image-smoother) |
 ## Bracket Sequences
 |  |
 | ------- |
