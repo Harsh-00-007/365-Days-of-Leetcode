@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0641-design-circular-deque) |
 | [0475-heaters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0475-heaters) |
 | [0661-image-smoother](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0661-image-smoother) |
+| [0934-shortest-bridge](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0934-shortest-bridge) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0684-redundant-connection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0684-redundant-connection) |
 | [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0934-shortest-bridge](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0934-shortest-bridge) |
 ## Memoization
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0684-redundant-connection) |
 | [0365-water-and-jug-problem](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0934-shortest-bridge](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0934-shortest-bridge) |
 ## Design
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0661-image-smoother](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0661-image-smoother) |
+| [0934-shortest-bridge](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0934-shortest-bridge) |
 ## Bracket Sequences
 |  |
 | ------- |
