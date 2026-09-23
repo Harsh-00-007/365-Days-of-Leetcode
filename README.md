@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0475-heaters) |
 | [0661-image-smoother](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0661-image-smoother) |
 | [0934-shortest-bridge](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0934-shortest-bridge) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
 |  |
 | ------- |
