@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0654-maximum-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0445-add-two-numbers-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0460-lfu-cache) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0641-design-circular-deque](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0641-design-circular-deque) |
+| [0445-add-two-numbers-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0991-broken-calculator) |
 | [0858-mirror-reflection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0858-mirror-reflection) |
 | [0007-reverse-integer](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0007-reverse-integer) |
+| [0445-add-two-numbers-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
