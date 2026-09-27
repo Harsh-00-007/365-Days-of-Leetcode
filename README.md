@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0546-remove-boxes](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0546-remove-boxes) |
+| [0688-knight-probability-in-chessboard](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 ## Breadth-First Search
 |  |
 | ------- |
