@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0661-image-smoother) |
 | [0934-shortest-bridge](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0934-shortest-bridge) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0622-design-circular-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0641-design-circular-deque](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0641-design-circular-deque) |
 | [0445-add-two-numbers-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0460-lfu-cache) |
 | [0715-range-module](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0715-range-module) |
 | [0641-design-circular-deque](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0641-design-circular-deque) |
+| [0622-design-circular-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0641-design-circular-deque) |
+| [0622-design-circular-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0622-design-circular-queue) |
 ## Geometry
 |  |
 | ------- |
