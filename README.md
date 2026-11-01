@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0934-shortest-bridge) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0622-design-circular-queue) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
