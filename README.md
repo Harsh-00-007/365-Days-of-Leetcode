@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0622-design-circular-queue) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0475-heaters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0475-heaters) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Cartesian Tree
 |  |
 | ------- |
