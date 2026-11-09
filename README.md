@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0622-design-circular-queue) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0858-mirror-reflection) |
 | [0007-reverse-integer](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0007-reverse-integer) |
 | [0445-add-two-numbers-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0066-plus-one](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
