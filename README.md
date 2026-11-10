@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0007-reverse-integer) |
 | [0445-add-two-numbers-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0066-plus-one](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0089-gray-code](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0089-gray-code](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0089-gray-code) |
 ## Bipartite Graph
 |  |
 | ------- |
