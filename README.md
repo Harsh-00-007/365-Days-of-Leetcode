@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0066-plus-one) |
+| [0045-jump-game-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0991-broken-calculator](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0991-broken-calculator) |
 | [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
+| [0045-jump-game-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0045-jump-game-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0546-remove-boxes](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0546-remove-boxes) |
 | [0688-knight-probability-in-chessboard](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0688-knight-probability-in-chessboard) |
+| [0045-jump-game-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0045-jump-game-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
