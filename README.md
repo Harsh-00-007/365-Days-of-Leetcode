@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0655-print-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0965-univalued-binary-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0655-print-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0965-univalued-binary-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0655-print-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0098-validate-binary-search-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -347,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
