@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0899-orderly-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0899-orderly-queue) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0066-plus-one](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0089-gray-code) |
+| [0899-orderly-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0899-orderly-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [0888-fair-candy-swap](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0475-heaters](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0475-heaters) |
+| [0899-orderly-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0899-orderly-queue) |
 ## Enumeration
 |  |
 | ------- |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/Harsh-00-007/365-Days-of-Leetcode/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
